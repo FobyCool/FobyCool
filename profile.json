@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "login": "FobyCool",
+  "seed": "#FF8A3D",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "buttons",
+    "wave",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Ку, я",
+    "name": "Foby",
+    "subtitle": "Я вайбкоджу всякую хуйню",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "verified",
+        "label": "Официальный вайбкодер"
+      },
+      {
+        "icon": "code",
+        "label": "С++ · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "Про меня",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Разработчик и школьник"
+      },
+      {
+        "icon": "code",
+        "label": "Почти всегда вайбкод"
+      },
+      {
+        "icon": "brand:android",
+        "label": "Шарю за Android Root"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Набор вайбкодера",
+    "groups": [
+      {
+        "title": "Основа",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "С++"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Утилиты",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Pip"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Palaziks_kernel",
+      "LSPromise-Build",
+      "Better-Il2CppDumper",
+      "BioWebsite"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "icon": "public",
+        "text": "Мой личный вебсайт с моим навайбкодженым био"
+      },
+      "Wallpapers": {
+        "icon": "desktop_windows",
+        "text": "Обои которые я использую для CSS фона в Discord",
+        "shape": "gem"
+      }
+    },
+    "empty": "Пока что ничего про них не расказал",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звезды моих проектов",
+    "contributions": "Сколько помогал",
+    "repos": "Публичные репо",
+    "followers": "Подпищиков",
+    "calendar": "Последние 21 дня",
+    "weekdays": "НПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Стрик",
+    "current": "Текущий",
+    "longest": "Найбольший за этот год",
+    "days": "дня"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/foby_bio"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/809802466555854878"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@fobycool"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "https://fobycool.xo.je/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
