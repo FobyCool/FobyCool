@@ -1,0 +1,184 @@
+{
+ "key": "54ffb247",
+ "stars": 0,
+ "contributions": 28,
+ "repos": 7,
+ "followers": 0,
+ "languages": [
+  [
+   "HTML",
+   24617
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 21,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 1
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "LSPromise-Build",
+   "url": "https://github.com/FobyCool/LSPromise-Build",
+   "text": "Android complete exploit chain that enables privilege escalation from a local untrusted app to root/kernel, combination of CVE-2026-49881 and CVE-2026-43284",
+   "fork": true,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "FobyCool",
+   "url": "https://github.com/FobyCool/FobyCool",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Palaziks_kernel",
+   "url": "https://github.com/FobyCool/Palaziks_kernel",
+   "text": "OnePlus SM8750 | Automatic kernel builder | ReSukiSU / KernelSU Next + SuSFS",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BioWebsite",
+   "url": "https://github.com/FobyCool/BioWebsite",
+   "text": "My website bio source code and some media for it.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Better-Il2CppDumper",
+   "url": "https://github.com/FobyCool/Better-Il2CppDumper",
+   "text": "Using Zygisk to dump il2cpp data at runtime",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "SkeetLoader",
+   "url": "https://github.com/FobyCool/SkeetLoader",
+   "text": "Cracked skeet loader that uses Neverlose UI",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Wallpapers",
+   "url": "https://github.com/FobyCool/Wallpapers",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
